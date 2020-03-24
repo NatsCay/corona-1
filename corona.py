@@ -7,7 +7,7 @@ url = rs.get('https://api.kawalcorona.com')
 
 data = url.json()
 
-indo = data[37]['attributes']
+indo = data[36]['attributes']
 
 negara = indo['Country_Region']
 positif = indo['Confirmed']
