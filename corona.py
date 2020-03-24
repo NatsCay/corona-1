@@ -36,7 +36,7 @@ def info():
 	print('    [•] Meniggal : ' + str(mati) + ' orang')
 	print('    [•] Sembuh : ' + str(sembuh) + ' orang')
 	print('')
-	print('    [ Terima Kasih Telah Menggunakan Tools ]')
+	print('    [ Terima Kasih Telah Menggunakan Tools ini ]')
 	print('')
 	print('    [*] Silahkan tunggu update selanjutnya [*]')
 	print('')
