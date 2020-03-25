@@ -10,7 +10,7 @@ rs = requests.Session()
 def menu():
 	os.system('clear')
 	print('')
-	print('    [ DATA KASUS CORONA DI INDONESIA ]')
+	print('    [ DATA KASUS CORONA ]')
 	print('')
 	print('    [•] Author  : Pandas ID')
 	print('    [•] Contact : WA : 082250223147')
