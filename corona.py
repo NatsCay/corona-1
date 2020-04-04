@@ -29,7 +29,7 @@ def menu():
 def pil():
 	print('')
 	pilih = input('    [•] Chose: ')
-	if pilih == '1':'
+	if pilih == '1':
 		indonesia()
 	elif pilih == '2':
 		prov()
